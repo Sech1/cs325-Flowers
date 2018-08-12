@@ -5,6 +5,10 @@ to store flowers.<br />
 <br />
 They needed to be able to add flowers, edit flowers, delete flowers, and search for flowers
 by name, family, and photo (There needed to be a working photo search algorithm).<br />
+Researchers and admins also needed to have the ability to manage users (add / delete / edit / set permissions / etc)<br />
+There needed to be a login system and a permissions system to give certain users abilities that base users didn't have<br />
+<br />
+I also designed and implemented the login (& Permissions) system as well as the salting and hashing of passwords in the database<br />
 <br />
 The project itself isn't fully finished but there's a basic prototype and working GUI/Database.
 All basic functionality also functions correctly and met requirements.<br />
